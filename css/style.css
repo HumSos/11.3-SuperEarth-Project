@@ -36,6 +36,7 @@
 .yellow{
   background-color: #10316B;
   height: 60px;
+  padding-bottom: 10px;
 }
 .aligned{
   float:right;
